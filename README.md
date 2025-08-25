@@ -62,10 +62,3 @@ php artisan serve
 ```
 
 Visit `http://localhost:8000` in your browser.
-
-## Useful Commands
-- `php artisan migrate --seed` → Run seeders
-
-## License
-
-This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
