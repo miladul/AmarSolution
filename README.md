@@ -64,12 +64,7 @@ php artisan serve
 Visit `http://localhost:8000` in your browser.
 
 ## Useful Commands
-
-- `php artisan migrate` → Run database migrations
-- `php artisan migrate:rollback` → Rollback last migration batch
-- `php artisan db:seed` → Run seeders
-- `php artisan make:model ModelName -m` → Create model with migration
-- `php artisan make:controller ControllerName` → Create controller
+- `php artisan migrate --seed` → Run seeders
 
 ## License
 
